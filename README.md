@@ -27,7 +27,7 @@ scipy
 ## Usage
 
 1. Make sure your camera is connected and accessible.
-2. Make sure you have downloaded the "shape_predictor_68_face_landmarks.dat" and saved it on the same directory as the python script.
+2. Make sure you have downloaded the "shape_predictor_68_face_landmarks.dat" and saved it on the same directory as the python script. Here is the link to download the file - https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat
 3. Run the `drowsiness_detection.py` file:
 4. The script will start capturing frames from the camera and analyze the mouth aspect ratio to detect drowsiness.
 5. Press 'q' to exit the program.
